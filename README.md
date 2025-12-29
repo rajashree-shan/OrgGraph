@@ -51,7 +51,7 @@ Built to solve the **“hairball problem”** in graph visualization, OrgGraph a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rajashree-shan/dependency-graph.git
+   git clone https://github.com/rajashree-shan/OrgGraph.git
    cd dependency-graph
 2. npm install
 3. npm run dev
