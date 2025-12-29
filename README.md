@@ -9,12 +9,6 @@
 
 Built to solve the **“hairball problem”** in graph visualization, OrgGraph allows managers and engineers to seamlessly switch between granular user-level views and high-level departmental clusters.
 
-![Project Screenshot](./dependency-graph.png)
-
-> 💡 Use the **Export Graph** button in the app to generate this image, rename it to `dependency-graph.png`, and commit it to the repository.
-
----
-
 ## 🚀 Key Features
 
 - **📊 Interactive Physics Graph**  
@@ -75,12 +69,11 @@ Solved browser Canvas Tainting issues by generating avatars as SVG Data URIs ins
 
 
 ## Future Improvements
- Shortest Path Highlighting
-Implement BFS to visually highlight the shortest dependency path between two nodes.
- Custom JSON Import
-Allow users to upload their own .json datasets for personalized org visualizations.
- 3D Graph Rendering
-Experiment with Three.js for immersive 3D dependency graphs.
+[ ] Shortest Path Algorithm: Implement BFS to highlight the quickest connection between two selected nodes.
+
+[ ] JSON Import: Allow users to upload their own .json dataset to visualize their own teams.
+
+[ ] 3D Rendering: Experiment with Three.js for a 3D view of the network.
 
 📄 License
 This project is licensed under the MIT License.
